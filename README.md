@@ -1,5 +1,4 @@
 # Excel-Sales-Dashboard-1
-# Excel Dashboard 1 — README
 
 ## Overview
 
